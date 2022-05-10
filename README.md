@@ -22,6 +22,8 @@ Script Check
 
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/104784561/167518040-95f84471-77b6-4104-a123-fa6ffe9e3ed6.png">
 
+Chapter 2 Day 2 Quests
+
 1. Explain why we wouldn't call changeGreeting in a script? 
 The script is only used to view data, it doesn't change anything. 
 
