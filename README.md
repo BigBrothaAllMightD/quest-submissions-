@@ -15,27 +15,10 @@ Pillars of Cadence
 Chapter 2 Day 1 Quests
 
 Deployed Contract 
-pub contract JacobTucker {
-
-  pub var is: String
-
-  init() {
-    
-    self.is = "the best" 
-
-  }
-
-} 
 
 <img width="741" alt="image" src="https://user-images.githubusercontent.com/104784561/167518143-3d05b67d-a3f4-4283-a279-0dd97def5069.png">
 
 Script Check
-
-import JacobTucker from 0x03
-
-pub fun main(): String {
-  return JacobTucker.is
-}
 
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/104784561/167518040-95f84471-77b6-4104-a123-fa6ffe9e3ed6.png">
 
